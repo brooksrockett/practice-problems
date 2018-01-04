@@ -1,0 +1,30 @@
+init:
+1,2,5,10,20,50,100,200
+
+logic:
+200 - (200x1) = 0
+200 - 100 |loop| - 100 = 0
+200 - 100 |loop| - 50 |loop| - 200
+
+variables:
+int[] denoms = {1,2,5,10,20,50,100,200}
+int[] sets = new int[]
+int[] set = new int[]
+
+templating:
+function Loop(int curr, pos, set) {
+    foreach (int = 0; etc.) {
+        if (etc.)
+    }
+}
+
+procedure:
+For each "curr", loop over array(denoms)
+If subtract > 0, add to array(set) and re-loop with pos+1,
+If subtract = 0, add to array(sets) and re-loop at curr=200 with pos+1,
+If subtract < 0, re-loop with pos+1
+
+when curr=200 and pos > denoms.length, stop loop
+foreach array(set) in array(sets), sort
+remove non-unique entries from array(sets)
+final answer = unique array(sets) length
