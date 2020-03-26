@@ -6,7 +6,7 @@ I've used at least six different programming languages, primarily Javascript, C#
 
 My profiles for these sites can be found below:
 
-[Project Euler](https://projecteuler.net/progress=brooksrockett)
-[HackerRank](https://www.hackerrank.com/brooksrockett)
-[Exercism](https://exercism.io/profiles/brooksrockett)
-[CodeWars](https://www.codewars.com/users/brooksrockett)
+* [Project Euler](https://projecteuler.net/progress=brooksrockett)
+* [HackerRank](https://www.hackerrank.com/brooksrockett)
+* [Exercism](https://exercism.io/profiles/brooksrockett)
+* [CodeWars](https://www.codewars.com/users/brooksrockett)
