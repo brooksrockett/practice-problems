@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/simple-array-sum/problem
-
 /*
  * Complete the simpleArraySum function below.
  */

@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/30-data-types/problem
-
 // Complete the solve function below.
 function solve(meal_cost, tip_percent, tax_percent) {
   let tip = meal_cost * (tip_percent / 100);

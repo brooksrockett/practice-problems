@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/2d-array/problem
-
 // Complete the hourglassSum function below.
 function hourglassSum(arr) {
     var max = -Infinity; // started with 0 but doesn't account for all values being negative

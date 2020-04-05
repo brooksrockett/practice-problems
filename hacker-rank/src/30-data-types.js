@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/30-data-types/problem
-
 function main() {
     var i = 4
     var d = 4.0

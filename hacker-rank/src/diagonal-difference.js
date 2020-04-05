@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/diagonal-difference/problem
-
 
 /*
  * Complete the 'diagonalDifference' function below.
