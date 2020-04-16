@@ -1,0 +1,1 @@
+const REGEXP = /blue flag|red flag/g

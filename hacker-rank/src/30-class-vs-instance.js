@@ -1,5 +1,5 @@
 // Challenge URL:
-// https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+// https://www.hackerrank.com/challenges/30-class-vs-instance/problem   
 
 function Person(initialAge) {
   // Add some more code to run some checks on initialAge
