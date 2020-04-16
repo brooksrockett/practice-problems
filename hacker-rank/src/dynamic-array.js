@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/dynamic-array/problem
-
 /*
  * Complete the 'dynamicArray' function below.
  *

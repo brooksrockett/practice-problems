@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/array-left-rotation/problem
-
 function main() {
     const nd = readLine().split(' ');
     const n = parseInt(nd[0], 10);

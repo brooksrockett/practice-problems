@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/30-conditional-statements/problem
-
 // Complete the solve function below.
 function main() {
     const N = parseInt(readLine(), 10);

@@ -1,6 +1,3 @@
-// Challenge URL:
-// https://www.hackerrank.com/challenges/compare-the-triplets/problem
-
 // Complete the compareTriplets function below.
 function compareTriplets(a, b) {
     var c=[0,0];
