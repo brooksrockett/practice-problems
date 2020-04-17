@@ -5,4 +5,4 @@ Completed Project Euler solutions
 
 This is simply a source repository for my [project euler](https://projecteuler.net) solutions.  
 I've used at least six different programming languages, primarily C# and Ruby.  
-***I'm currently at 61 problems solved, most recent being #206.***
+***I'm currently at 62 problems solved, most recent being #26.***
